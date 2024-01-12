@@ -11,7 +11,7 @@ This simple calculator web application allows users to perform basic arithmetic 
 
 ## Demo
 
-You can access the live demo of the calculator [here](#your-live-demo-url).
+You can access the live demo of the calculator [here](#https://calculator-self-five-58.vercel.app/).
 
 ## Technologies Used
 
@@ -35,8 +35,8 @@ To run the project locally, follow these steps:
    ```bash
    npm install
    ```
-   
-2. Start the development server
+
+3. Start the development server
 
    ```bash
    npm run start
@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
 ## Usage
 
 - Enter numbers using the on-screen buttons or your keyboard.
-- Use the operators (+, -, *, /) for calculations.
+- Use the operators (+, -, \*, /) for calculations.
 - Press the "C" button to clear the result.
 
 ## Contributing
