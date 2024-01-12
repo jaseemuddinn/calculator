@@ -11,7 +11,7 @@ This simple calculator web application allows users to perform basic arithmetic 
 
 ## Demo
 
-You can access the live demo of the calculator [here](https://calculator-self-five-58.vercel.app/).
+You can access the live demo of the calculator [here](https://calculator-self-five-58.vercel.app/){:target="_blank"}.
 
 ## Technologies Used
 
